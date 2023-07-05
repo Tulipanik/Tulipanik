@@ -10,7 +10,8 @@ I'm a student of Applied Computer Science at Warsaw University of Technology. ðŸ
 
 Are you still interested? Read futhrer ðŸ˜Š
 
-## Programming languages
-<p align="center"><img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/><img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/></p>
+## Programming languages and technologies
+<p align="center"><img src='https://github.com/Tulipanik/Tulipanik/blob/main/icons/java-svgrepo-com.svg' width='30'/><img src = 'https://github.com/Tulipanik/Tulipanik/blob/main/icons/javascript-svgrepo-com.svg' width='30'/> <img src = 'https://github.com/Tulipanik/Tulipanik/blob/main/icons/html-5-svgrepo-com.svg' width='30'/>  <img src = 'https://github.com/Tulipanik/Tulipanik/blob/main/icons/css-3-svgrepo-com.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/Tulipanik/Tulipanik/blob/main/icons/python-svgrepo-com.svg' height='30'/>
+<img src = 'https://github.com/Tulipanik/Tulipanik/blob/main/icons/mongo-svgrepo-com.svg' width='30'/><img src = 'https://github.com/Tulipanik/Tulipanik/blob/main/icons/node-js-svgrepo-com.svg' width='30'/><img src = 'https://github.com/Tulipanik/Tulipanik/blob/main/icons/electron-svgrepo-com.svg' width='30'/></p>
 
-## Technologies
+
